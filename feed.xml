@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Taktikkladde</title>
+    <link href="https://aktik-klade.com/feed.xml" rel="self" />
+    <link href="https://aktik-klade.com" />
+    <updated>2026-10-19T14:45:00+02:00</updated>
+    <author>
+        <name>Niklas Weber</name>
+    </author>
+    <id>https://aktik-klade.com</id>
+
+    <entry>
+        <title>Willkommen bei Taktik-Kladde</title>
+        <author>
+            <name>Niklas Weber</name>
+        </author>
+        <link href="https://aktik-klade.com/willkommen-bei-taktik-kladde/"/>
+        <id>https://aktik-klade.com/willkommen-bei-taktik-kladde/</id>
+
+        <updated>2026-10-19T14:45:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
