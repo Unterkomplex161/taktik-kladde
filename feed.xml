@@ -3,14 +3,14 @@
     <title>Taktikkladde</title>
     <link href="https://taktik-kladde.com/feed.xml" rel="self" />
     <link href="https://taktik-kladde.com" />
-    <updated>2026-10-19T14:45:00+02:00</updated>
+    <updated>2026-10-19T15:42:31+02:00</updated>
     <author>
         <name>Niklas Weber</name>
     </author>
     <id>https://taktik-kladde.com</id>
 
     <entry>
-        <title>Willkommen bei Taktik-Kladde</title>
+        <title>Willkommen bei Taktik-Kladde.com</title>
         <author>
             <name>Niklas Weber</name>
         </author>
@@ -20,12 +20,13 @@
         <updated>2026-10-19T14:45:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.
+                    Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr. Mal schauen was draus wird
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.</p>
+<p>Mal schauen was draus wird</p>
             ]]>
         </content>
     </entry>
