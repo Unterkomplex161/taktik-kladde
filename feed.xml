@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Taktikkladde</title>
-    <link href="https://taktik-klade.com/feed.xml" rel="self" />
-    <link href="https://taktik-klade.com" />
+    <link href="https://taktik-kladde.com/feed.xml" rel="self" />
+    <link href="https://taktik-kladde.com" />
     <updated>2026-10-19T14:45:00+02:00</updated>
     <author>
         <name>Niklas Weber</name>
     </author>
-    <id>https://taktik-klade.com</id>
+    <id>https://taktik-kladde.com</id>
 
     <entry>
         <title>Willkommen bei Taktik-Kladde</title>
         <author>
             <name>Niklas Weber</name>
         </author>
-        <link href="https://taktik-klade.com/willkommen-bei-taktik-kladde/"/>
-        <id>https://taktik-klade.com/willkommen-bei-taktik-kladde/</id>
+        <link href="https://taktik-kladde.com/willkommen-bei-taktik-kladde/"/>
+        <id>https://taktik-kladde.com/willkommen-bei-taktik-kladde/</id>
 
         <updated>2026-10-19T14:45:00+02:00</updated>
             <summary type="html">
