@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Taktikkladde",
     "description": "",
-    "home_page_url": "https://aktik-klade.com",
-    "feed_url": "https://aktik-klade.com/feed.json",
+    "home_page_url": "https://taktik-klade.com",
+    "feed_url": "https://taktik-klade.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Niklas Weber"
     },
     "items": [
         {
-            "id": "https://aktik-klade.com/willkommen-bei-taktik-kladde/",
-            "url": "https://aktik-klade.com/willkommen-bei-taktik-kladde/",
+            "id": "https://taktik-klade.com/willkommen-bei-taktik-kladde/",
+            "url": "https://taktik-klade.com/willkommen-bei-taktik-kladde/",
             "title": "Willkommen bei Taktik-Kladde",
             "summary": "Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.",
             "content_html": "<p>Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.</p>",
