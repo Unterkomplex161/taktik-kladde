@@ -3,7 +3,7 @@
     <title>Taktikkladde</title>
     <link href="https://taktik-kladde.com/feed.xml" rel="self" />
     <link href="https://taktik-kladde.com" />
-    <updated>2026-10-20T13:40:00+02:00</updated>
+    <updated>2026-10-20T13:41:12+02:00</updated>
     <author>
         <name>Niklas Weber</name>
     </author>
@@ -48,7 +48,10 @@
 </ul>
 <h4 data-path-to-node="15">3. Ausblick auf die Detail-Serien</h4>
 <p data-path-to-node="16">In den kommenden Beiträgen nehme ich diese vier Säulen komplett auseinander. Ich zeige, welche Vorlagen in die Fächermappe gehören, wie das Funkgerät bestückt wird und welche Kleinigkeiten im Ernstfall den Unterschied machen.</p>
-<p data-path-to-node="17"><em>Stay tuned.</em></p>
+<blockquote>
+<p data-path-to-node="17">"Ordnung im Kopf, Struktur in der Tasche"</p>
+</blockquote>
+<p data-path-to-node="17"> </p>
             ]]>
         </content>
     </entry>
