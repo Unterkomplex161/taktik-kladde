@@ -20,23 +20,24 @@
                 "name": "Niklas Weber"
             },
             "tags": [
+                   "Führungsmitteltasche"
             ],
             "date_published": "2026-10-20T13:35:07+02:00",
-            "date_modified": "2026-10-20T13:35:07+02:00"
+            "date_modified": "2026-10-20T13:35:54+02:00"
         },
         {
             "id": "https://taktik-kladde.com/willkommen-bei-taktik-kladde/",
             "url": "https://taktik-kladde.com/willkommen-bei-taktik-kladde/",
             "title": "Willkommen bei Taktik-Kladde.com",
-            "summary": "Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr. Mal schauen was draus wird",
-            "content_html": "<p>Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.</p>\n<p>Mal schauen was draus wird</p>",
+            "summary": "Hier entsteht ab sofort mein Blog rund um Führungsmittel, Taktik und die praktische Ausrüstung in der öffentlichen Gefahrenabwehr. Kein theoretisches Blabla, sondern das, was draußen im Einsatz funktioniert. Es gibt Momente im Leben, da muss man Dinge einfach anpacken. Dass die Seite ausgerechnet am 19.",
+            "content_html": "<p data-path-to-node=\"8\">Hier entsteht ab sofort mein Blog rund um Führungsmittel, Taktik und die praktische Ausrüstung in der öffentlichen Gefahrenabwehr. Kein theoretisches Blabla, sondern das, was draußen im Einsatz funktioniert.</p>\n<blockquote>\n<p data-path-to-node=\"9\"><em>Es gibt Momente im Leben, da muss man Dinge einfach anpacken. Dass die Seite ausgerechnet am 19. Oktober online gegangen ist, passt dabei perfekt: Die DLRG feiert ihren Gründungstag. Wer, so wie ich, seit Jahren mit Herzblut in der Wasserrettung unterwegs ist, weiß, wie wichtig verlässliches Handwerkszeug und klare Strukturen im Ernstfall sind.</em></p>\n</blockquote>\n<p data-path-to-node=\"10\">Genau da setzt die Taktikkladde an: Ich zeige dir, wie Führungsmitteltaschen aufgebaut sind, welche Vorlagen den Papierkrieg im Zugtrupp bändigen und welche Gadgets den entscheidenden Unterschied machen.</p>\n<p data-path-to-node=\"11\"><em>Mal schauen was draus wird.</em></p>\n<blockquote>\n<p data-path-to-node=\"11\">\"Ordnung im Kopf, Struktur in der Tasche\"</p>\n</blockquote>",
             "author": {
                 "name": "Niklas Weber"
             },
             "tags": [
             ],
             "date_published": "2026-10-19T14:45:00+02:00",
-            "date_modified": "2026-10-19T15:42:31+02:00"
+            "date_modified": "2026-10-20T13:40:00+02:00"
         }
     ]
 }

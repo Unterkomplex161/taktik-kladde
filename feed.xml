@@ -3,7 +3,7 @@
     <title>Taktikkladde</title>
     <link href="https://taktik-kladde.com/feed.xml" rel="self" />
     <link href="https://taktik-kladde.com" />
-    <updated>2026-10-20T13:35:07+02:00</updated>
+    <updated>2026-10-20T13:40:00+02:00</updated>
     <author>
         <name>Niklas Weber</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://taktik-kladde.com/die-fuehrungsmitteltasche-im-einsatz-das-grundkonzept/"/>
         <id>https://taktik-kladde.com/die-fuehrungsmitteltasche-im-einsatz-das-grundkonzept/</id>
+            <category term="Führungsmitteltasche"/>
 
         <updated>2026-10-20T13:35:07+02:00</updated>
             <summary type="html">
@@ -62,13 +63,20 @@
         <updated>2026-10-19T14:45:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr. Mal schauen was draus wird
+                    Hier entsteht ab sofort mein Blog rund um Führungsmittel, Taktik und die praktische Ausrüstung in der öffentlichen Gefahrenabwehr. Kein theoretisches Blabla, sondern das, was draußen im Einsatz funktioniert. Es gibt Momente im Leben, da muss man Dinge einfach anpacken. Dass die Seite ausgerechnet am 19.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Hier entsteht in Kürze der Blog rund um Führungsmittel und Ausrüstung in der öffentlichen Gefahrenabwehr.</p>
-<p>Mal schauen was draus wird</p>
+                <p data-path-to-node="8">Hier entsteht ab sofort mein Blog rund um Führungsmittel, Taktik und die praktische Ausrüstung in der öffentlichen Gefahrenabwehr. Kein theoretisches Blabla, sondern das, was draußen im Einsatz funktioniert.</p>
+<blockquote>
+<p data-path-to-node="9"><em>Es gibt Momente im Leben, da muss man Dinge einfach anpacken. Dass die Seite ausgerechnet am 19. Oktober online gegangen ist, passt dabei perfekt: Die DLRG feiert ihren Gründungstag. Wer, so wie ich, seit Jahren mit Herzblut in der Wasserrettung unterwegs ist, weiß, wie wichtig verlässliches Handwerkszeug und klare Strukturen im Ernstfall sind.</em></p>
+</blockquote>
+<p data-path-to-node="10">Genau da setzt die Taktikkladde an: Ich zeige dir, wie Führungsmitteltaschen aufgebaut sind, welche Vorlagen den Papierkrieg im Zugtrupp bändigen und welche Gadgets den entscheidenden Unterschied machen.</p>
+<p data-path-to-node="11"><em>Mal schauen was draus wird.</em></p>
+<blockquote>
+<p data-path-to-node="11">"Ordnung im Kopf, Struktur in der Tasche"</p>
+</blockquote>
             ]]>
         </content>
     </entry>
